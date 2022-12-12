@@ -14,6 +14,16 @@ const Styles = StyleSheet.create({
     SubText: {
         fontSize: 17,
         color: '#FF8000',
+    },
+    footer: {
+        flex: 1,
+        backgroundColor: '#2c2c2c',
+        alignItems: 'center',
+        justifyContent: 'center'
+    },
+    menu: {
+        position: 'absolute',
+        bottom: 10
     }
 });
 
